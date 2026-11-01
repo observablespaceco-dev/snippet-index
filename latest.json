@@ -1,8 +1,8 @@
 {
-  "version": "0.10.4",
-  "url": "https://github.com/observablespaceco-dev/snippet-index/releases/download/v0.10.4/SNIPPET-0.10.4-update.zip",
-  "sha256": "3eb849318c8f8360b7e69b282e5c409fbf5532cb0bff3caa0c0a146bafc1cecf",
-  "size": 1355196,
-  "notes": "Cleaner covers: the letter placeholder disappears once the artwork loads",
-  "signature": "KCMJDFExHrMx/EzuyQqixK0D3CZd0y55jQkrHKA7pgWanUNGT28ugI3X6v75mMO4nHPB6DBdVnfG9CWdLZOhCQ=="
+  "version": "0.10.5",
+  "url": "https://github.com/observablespaceco-dev/snippet-index/releases/download/v0.10.5/SNIPPET-0.10.5-update.zip",
+  "sha256": "aaafe82be8baf4bfb1aa94055f40083ede605d9b68adcec32253bd2dbd8541ff",
+  "size": 1419341,
+  "notes": "New dark app icon",
+  "signature": "u3IxhAQ4sIFkXH90hCusdIhN86eyg4yPqSQ0XwV7gzyqp6uR8B5DadLquMid3GLLRx+6UH42VIqrpCAiSg7ICw=="
 }
