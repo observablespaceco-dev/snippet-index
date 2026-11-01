@@ -1,8 +1,8 @@
 {
-  "version": "0.9.4",
-  "url": "https://github.com/observablespaceco-dev/snippet-index/releases/download/v0.9.4/SNIPPET-0.9.4-update.zip",
-  "sha256": "df5771782bfe2c51c3ed93d61187df15a9ac49ec71d6e35c79311129566102be",
-  "size": 1306375,
-  "notes": "Every Top Songs entry now finds a sound that plays",
-  "signature": "wpUW2ouWEphrj1BetM/Dk8i6DHMKLuw+nAOHzvVlXHA3f5TFVzCxvAzBtful4k1/TZdOFZHWNn0lTQdigT1/Dg=="
+  "version": "0.9.5",
+  "url": "https://github.com/observablespaceco-dev/snippet-index/releases/download/v0.9.5/SNIPPET-0.9.5-update.zip",
+  "sha256": "9cffacf2048ae891ffb04faa23dfd94aa6003010471713527e32d982fa764d23",
+  "size": 1313489,
+  "notes": "Searches skip sounds that can't play here",
+  "signature": "r/y8p5w4G911IwUKxdGKGNcm/CL+WBqPiYYjfIsahqjM8jeocGk7OYZNzjzAsUJyLSbBbfKGK5CFkhUlu/GaBg=="
 }
