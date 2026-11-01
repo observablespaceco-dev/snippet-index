@@ -1,8 +1,8 @@
 {
-  "version": "0.9.8",
-  "url": "https://github.com/observablespaceco-dev/snippet-index/releases/download/v0.9.8/SNIPPET-0.9.8-update.zip",
-  "sha256": "0b6ff2c86a75bd092e05d65bc29b014e64fc381f2e11ebc6126fa5bf8de494e1",
-  "size": 1327823,
-  "notes": "Lists stay clean over time: dead sounds never reappear, replacements found sooner, lighter background saving",
-  "signature": "LapV9NQ3Kk2sIB8CBhCWl0/ZX+fxCFLsOHp5cTGA0l2mwf5Rr8jLnXGaQvhepgWFWRrVJfhKf4Zb4ViZtAENBA=="
+  "version": "0.9.9",
+  "url": "https://github.com/observablespaceco-dev/snippet-index/releases/download/v0.9.9/SNIPPET-0.9.9-update.zip",
+  "sha256": "45c87b28de7f92bbbf9a01c44ebfdcfae70b9bfb24508460a59adba48c3e4b7d",
+  "size": 1331605,
+  "notes": "Downloads go straight into a Snippet bin in Resolve's Power Bins",
+  "signature": "dKhjqTMiUx+m3MTcx3WDwM7qSUw6LxHvXnloIGS+GqeC/4WE87MtiXK/8S8RkZqCj5RbXcnIw8rW8aCS9QlXBA=="
 }
