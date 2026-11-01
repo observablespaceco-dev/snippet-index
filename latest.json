@@ -1,8 +1,8 @@
 {
-  "version": "0.9.1",
-  "url": "https://github.com/observablespaceco-dev/snippet-index/releases/download/v0.9.1/SNIPPET-0.9.1-update.zip",
-  "sha256": "6284e76282a8c01ad58da8c0269bb683942511488782fda37bdc444fa4526e6b",
-  "size": 1131432,
-  "notes": "SNIPPET 0.9.1: fixes automatic update downloads.",
-  "signature": "v1FBKN1Fx74Imz7ULAhV6NPiYmDnmbKXEUvVH/R08jboHsp5KOytCpL6NTwqU0LHIsjqWx5tLjYxnZdX08UdCQ=="
+  "version": "0.9.2",
+  "url": "https://github.com/observablespaceco-dev/snippet-index/releases/download/v0.9.2/SNIPPET-0.9.2-update.zip",
+  "sha256": "c680405a0a731cd294c710591f06c26830fdc722f7f653fd6c934ac0d37e7313",
+  "size": 1141422,
+  "notes": "First-run welcome; TikTok sign-in optional; songs found by searches grow the shared catalogue; anonymous error reports (opt-in).",
+  "signature": "EUm0+Iha55qU/1kfi5O4b/ojFgfHMWCOSdWEqjlmUwlfSllDpfH84PfHq85jlEASexDr97W0fwNjm9kJPSlXBg=="
 }
