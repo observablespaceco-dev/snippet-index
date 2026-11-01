@@ -1,8 +1,8 @@
 {
-  "version": "0.10.1",
-  "url": "https://github.com/observablespaceco-dev/snippet-index/releases/download/v0.10.1/SNIPPET-0.10.1-update.zip",
-  "sha256": "3f7b10fe3835cc5f8f9085b18220f922cd936100a9f8ba5150eb3555d47d3e0f",
-  "size": 1342627,
-  "notes": "Playlists live in SNIPPET; downloads no longer go into Resolve's media pool by themselves",
-  "signature": "LR2DZECwg0LoIjwIeXiDPNZpId4aOkI/F6N78VCcRLy+UoX/wbO7rC5wa58ixgZSNxr8URty99gyXlytRtu7Dw=="
+  "version": "0.10.2",
+  "url": "https://github.com/observablespaceco-dev/snippet-index/releases/download/v0.10.2/SNIPPET-0.10.2-update.zip",
+  "sha256": "7b029411d9e4213e8b0e96b46fdcd1e0e829b2e0dbc4b476942905c93a6161d1",
+  "size": 1346760,
+  "notes": "Add sounds to a playlist straight from your downloads",
+  "signature": "olWWviD+eiIDyHr9ZvCKhG1C009GD84L170o8Uprh6+buFaTO9yXdIcDw7sJKiyfJCAyw7Prx2zHHM5yGr2/BQ=="
 }
