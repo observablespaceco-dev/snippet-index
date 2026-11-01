@@ -1,8 +1,8 @@
 {
-  "version": "0.10.2",
-  "url": "https://github.com/observablespaceco-dev/snippet-index/releases/download/v0.10.2/SNIPPET-0.10.2-update.zip",
-  "sha256": "7b029411d9e4213e8b0e96b46fdcd1e0e829b2e0dbc4b476942905c93a6161d1",
-  "size": 1346760,
-  "notes": "Add sounds to a playlist straight from your downloads",
-  "signature": "olWWviD+eiIDyHr9ZvCKhG1C009GD84L170o8Uprh6+buFaTO9yXdIcDw7sJKiyfJCAyw7Prx2zHHM5yGr2/BQ=="
+  "version": "0.10.3",
+  "url": "https://github.com/observablespaceco-dev/snippet-index/releases/download/v0.10.3/SNIPPET-0.10.3-update.zip",
+  "sha256": "d039c6898d6fa92a557a67a0a1a853a0a88e73461f72134d54dd2243b340f9fb",
+  "size": 1354546,
+  "notes": "Deleted a playlist by mistake? Undo brings it back",
+  "signature": "dESZuazUMG2L/NMyFbiVWw01VyEo5zzhkDxpj0iDDOPYgbqv5i1E5TdEm4kA3uWCj2sqZiPGhvD/QME26uRoBw=="
 }
