@@ -1,8 +1,8 @@
 {
-  "version": "0.10.3",
-  "url": "https://github.com/observablespaceco-dev/snippet-index/releases/download/v0.10.3/SNIPPET-0.10.3-update.zip",
-  "sha256": "d039c6898d6fa92a557a67a0a1a853a0a88e73461f72134d54dd2243b340f9fb",
-  "size": 1354546,
-  "notes": "Deleted a playlist by mistake? Undo brings it back",
-  "signature": "dESZuazUMG2L/NMyFbiVWw01VyEo5zzhkDxpj0iDDOPYgbqv5i1E5TdEm4kA3uWCj2sqZiPGhvD/QME26uRoBw=="
+  "version": "0.10.4",
+  "url": "https://github.com/observablespaceco-dev/snippet-index/releases/download/v0.10.4/SNIPPET-0.10.4-update.zip",
+  "sha256": "3eb849318c8f8360b7e69b282e5c409fbf5532cb0bff3caa0c0a146bafc1cecf",
+  "size": 1355196,
+  "notes": "Cleaner covers: the letter placeholder disappears once the artwork loads",
+  "signature": "KCMJDFExHrMx/EzuyQqixK0D3CZd0y55jQkrHKA7pgWanUNGT28ugI3X6v75mMO4nHPB6DBdVnfG9CWdLZOhCQ=="
 }
