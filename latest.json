@@ -1,8 +1,8 @@
 {
-  "version": "0.10.0",
-  "url": "https://github.com/observablespaceco-dev/snippet-index/releases/download/v0.10.0/SNIPPET-0.10.0-update.zip",
-  "sha256": "e6c45768c757e6709fd78f4da49c90ac82cd2e07bdda13ee93acc60352f47bbd",
-  "size": 1343528,
-  "notes": "Playlists: group sounds into playlists that show up in Resolve under Power Bins › Snippet, and downloads go straight into that Snippet bin",
-  "signature": "9k5Yk/j5hIX+d4b3hC/2RVqcUd/dz8iFmdhDqHIcZbMtz32CILLUYpY7NAIxv9QX5/dWx9mvTycruFW+VYfsBw=="
+  "version": "0.10.1",
+  "url": "https://github.com/observablespaceco-dev/snippet-index/releases/download/v0.10.1/SNIPPET-0.10.1-update.zip",
+  "sha256": "3f7b10fe3835cc5f8f9085b18220f922cd936100a9f8ba5150eb3555d47d3e0f",
+  "size": 1342627,
+  "notes": "Playlists live in SNIPPET; downloads no longer go into Resolve's media pool by themselves",
+  "signature": "LR2DZECwg0LoIjwIeXiDPNZpId4aOkI/F6N78VCcRLy+UoX/wbO7rC5wa58ixgZSNxr8URty99gyXlytRtu7Dw=="
 }
