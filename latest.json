@@ -1,8 +1,8 @@
 {
-  "version": "0.9.6",
-  "url": "https://github.com/observablespaceco-dev/snippet-index/releases/download/v0.9.6/SNIPPET-0.9.6-update.zip",
-  "sha256": "0fed47575909ec97bb04feb7251c5bfae804883a183ad2d372b77cf761650dfd",
-  "size": 1324025,
-  "notes": "Songs whose title has a slur are listed again, with the slur masked",
-  "signature": "PncI6digatNdNqiaODvmvJMMlFH3YCIjJ8ja/radDqqqGcBmpwfivU6tJGrY9FMd+vFeN80WXCSVq6kWuNvRBA=="
+  "version": "0.9.7",
+  "url": "https://github.com/observablespaceco-dev/snippet-index/releases/download/v0.9.7/SNIPPET-0.9.7-update.zip",
+  "sha256": "189ddfd27b18b53593d9b10f667b44a3eeee1204a1489349becb80de00fdd8b7",
+  "size": 1324555,
+  "notes": "Slurs in sound titles are masked, more spellings included",
+  "signature": "UnlhSgCrt44+zYpR2+odV7NuKURPGe+PMTvHgDXkTS/B2yKdCPhGg0CdCFP39c6SSgtb9za0OJAgeBReZeS6DA=="
 }
